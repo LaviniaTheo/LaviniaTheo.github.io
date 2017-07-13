@@ -1,0 +1,20 @@
+body{
+  background: silver;
+}
+
+p {
+  font-family: sans-serif:;
+}
+
+h1 {
+  color: magenta;
+}
+
+.heading {
+
+  font-weight: 400;  
+}
+
+#important {
+  color: gold;
+}
