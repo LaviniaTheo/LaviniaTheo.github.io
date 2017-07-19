@@ -1,10 +1,10 @@
 body {
-	background: #0B0B0B;
+	background: #E1866D;
 	font-family: 'Indie Flower', cursive;
 }
 	
 #contents {
-	background:#444;
+	background:#659588;
 	width:800px;
 	margin-right:auto;
 	margin-left:auto;
@@ -21,7 +21,7 @@ A:link {
 }
 
 A:hover {
-  color: green;
+  color: black;
 }
 
 a:visited {
