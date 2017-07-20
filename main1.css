@@ -67,3 +67,64 @@ img.left {
 #clearer {
 
 }
+body {
+	background: #0B0B0B;
+}
+	
+#contents {
+	background:#444;
+	width:800px;
+	margin-right:auto;
+	margin-left:auto;
+	color: #9c3;
+}
+
+h1 { 
+
+}
+
+A:link {
+	text-decoration: none;
+	color:#fc0;
+}
+
+A:hover {
+  color: green;
+}
+
+a:visited {
+
+}
+
+#headblock address { 
+
+}
+ 
+ #home{
+   background: #ccc;
+	 padding: 35px;
+ }
+ 
+
+ h3 {
+
+}
+ 
+ img {
+   width:260px;
+	 float:right;
+	 padding: 35px;
+}
+
+img.left {
+	float:left;
+}
+
+#footer {
+
+}
+
+#clearer {
+
+}
+
