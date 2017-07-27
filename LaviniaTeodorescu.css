@@ -1,8 +1,20 @@
 #content {
-  background: url('https://lh3.googleusercontent.com/DCerPxdhtT1OaV1Pu5YOg7X1zHnVoIuNbZKk1b-zXxmrukyo6DzQnS7LLM6XmbKCJ-qibktmMRkWX3KaWIlbutRVWozLs9E7cmmlJnN60RKI9P8FXp85pB4g-Alpt3RgZeD4TXCvJ6Jm5GnvNoDa659jAM0iSCMevIlozIZMPiDIcqRV7jBfDDVhsRbfDFylwbXgDnJQ5lKr-l11fEjB4Ejduj5xigSfmbaazR5Pj3UVUDg0IzeKsrNm91DeFXxKJQ3SPhhRd1h2usIWnytK0ldTIpmlM9ewuHBn2aMH1qndJPmeeBqNiM4Kzziz9w5mYCtnhU5PtWbUWVYfSk7ZZCooFD8QKLPeHnyiqIfC8B97d0nujMilJoiK0S2JTIBvf111orO_FjqXWCqZI6PnEmohYjxsa-ExTvNGcqOcxb9aVSDbJGZzQkv1oLM-e4KZ8utKlqw3Wp7d5ZUs4u68Q0Bsp2Gvb_kk2X9JWMH1AT7HqaUFLwChZcjMjWszdzIVrG_z3E05KQCNG45pDigBBB_eKdFp3IZMAa9Z1rijhxXij9_PIYbs-5WC0j9fAguhiiduut9W=w1366-h589');
- 
+  	background: url('https://lh3.googleusercontent.com/DCerPxdhtT1OaV1Pu5YOg7X1zHnVoIuNbZKk1b-zXxmrukyo6DzQnS7LLM6XmbKCJ-qibktmMRkWX3KaWIlbutRVWozLs9E7cmmlJnN60RKI9P8FXp85pB4g-Alpt3RgZeD4TXCvJ6Jm5GnvNoDa659jAM0iSCMevIlozIZMPiDIcqRV7jBfDDVhsRbfDFylwbXgDnJQ5lKr-l11fEjB4Ejduj5xigSfmbaazR5Pj3UVUDg0IzeKsrNm91DeFXxKJQ3SPhhRd1h2usIWnytK0ldTIpmlM9ewuHBn2aMH1qndJPmeeBqNiM4Kzziz9w5mYCtnhU5PtWbUWVYfSk7ZZCooFD8QKLPeHnyiqIfC8B97d0nujMilJoiK0S2JTIBvf111orO_FjqXWCqZI6PnEmohYjxsa-ExTvNGcqOcxb9aVSDbJGZzQkv1oLM-e4KZ8utKlqw3Wp7d5ZUs4u68Q0Bsp2Gvb_kk2X9JWMH1AT7HqaUFLwChZcjMjWszdzIVrG_z3E05KQCNG45pDigBBB_eKdFp3IZMAa9Z1rijhxXij9_PIYbs-5WC0j9fAguhiiduut9W=w1366-h589') no-repeat center center;
+ 	height: 680px;
+	overflow: hidden;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
 }
 
 #whitebar {
-  position: fixed;
-  top: 0px;}
+  	position: fixed;
+	top:0;
+	width:100%;
+	background: #fff;
+	border-bottom: 1px solid #ccc;
+	z-index: 9999;
+}
+
+
