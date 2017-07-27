@@ -16,7 +16,12 @@
 	border-bottom: 1px solid #ccc;
 	z-index: 9999;
 	height: 98px;
+
 }
+
+#logo {
+	width: 98px;
+	float: left;}
 
 #myTopnav {
 	float: left;
