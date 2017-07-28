@@ -88,6 +88,9 @@ nav a#pull {
 	letter-spacing: 0.15em;
 }
 /*-- //banner ----*/
+.contact {
+	text-align: center;
+}
 /*---- about ----*/
 .about{
 	padding: 3.5em 0 5em;
