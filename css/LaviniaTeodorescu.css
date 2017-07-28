@@ -22,7 +22,7 @@ html, body{
 }
 /*----navbar-nav----*/
 .top-header{
-	background: #02918C;
+	background: #7D4B92;
 	position: fixed;
 	width: 100%;
 	z-index: 1;
@@ -83,7 +83,7 @@ nav a#pull {
 	font-weight: 900;
 	margin: 0;
 	padding: 20% 0 0 0;
-	color: #02918C;
+	color: #7D4B92;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 }
@@ -100,7 +100,7 @@ nav a#pull {
 	padding: 3.5em 0 5em;
 }
 .about-head h2{
-	color:#02918C;
+	color:#7D4B92;
 	font-weight:900;
 	font-size:3em;
 	margin:0;
