@@ -100,14 +100,14 @@ nav a#pull {
 	padding: 3.5em 0 5em;
 }
 .about-head h2{
-	color:#7D4B92;
+	color:#02918C;
 	font-weight:900;
 	font-size:3em;
 	margin:0;
 	padding:0;
 }
 .about-head p{
-	color: #02918C;
+	color: black;
 	font-size: 1.2em;
 	font-weight: 300;
 	width: 80%;
@@ -136,7 +136,7 @@ nav a#pull {
 	font-size: 1.3em;
 }
 .about-grid p{
-	color: #02918C;
+	color: black;
 	font-size: 0.875em;
 	line-height: 1.8em;
 	width: 84%;
